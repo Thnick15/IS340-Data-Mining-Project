@@ -17,6 +17,8 @@ Business Application Programming (Python)
 <h5 align="center">Sebastian Torres 016220202</h5>
 <h5 align="center">Kathleen Tran 015023747</h5>
 
+Link to dataset: https://drive.google.com/file/d/1TST3JYL5bmE7aCowDEvqvR_mOtxUBsXT/view?usp=sharing
+
 <h4 align="left">Data</h4>
 
 In this report, we draw insights by analyzing textual, numerical, and string data through the use of programming concepts and text-mining methods from a dataset of wine reviews. The dataset has approximately 130,000 records of wine reviews, with columns consisting of the country, description, designation, points, price, province, region, variety, and winery. Country shows where the wine is from. The description describes the wine’s taste, smell, look, feel, and so on. Designation is the vineyard within the winery where the grapes that made the wine are from. Points uses a scale of 1 to 100; however, wine reviews used in our dataset are only greater than or equal to 80. 80-89 is described as a very good wine with special qualities, 90-95 is an outstanding wine of superior character and style, and 96-100 is considered to be a classic and a great wine. Price is the cost for a single bottle of wine. Province is the area the wine is from. Region is to specify to a greater extent as to where the wine is from. Variety is the type of grapes that were used to make the wine. Lastly, winery is the establishment of where the wine was created. Given the columns of the dataset stated above, the variables used in our program are wineCountry, wineProvince, winePoint, winePrice, and wineDescript. 
