@@ -1,4 +1,4 @@
-# IS340-Dataset-Wine-Reviews
+# IS340-Data-Mining-Project
 Business Application Programming (Python)
 
 <h2 align="center">IS 340 Python Data Mining Project</h4>
