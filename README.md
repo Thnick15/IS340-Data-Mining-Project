@@ -1,7 +1,7 @@
 # IS340-Dataset-Wine-Reviews
 Business Application Programming (Python)
 
-<h2 align="center">IS 340 Python Project</h4>
+<h2 align="center">IS 340 Python Data Mining Project</h4>
 
 <h4 align="center">California State University, Long Beach</h4>
 
